@@ -1,17 +1,6 @@
-﻿### This forked repo is temporary used also to gather other small python projects about neural networks
+﻿
+###What's this repo?
 
-# Neural Network with Backpropagation
+This repo is temporary used to gather small python projects about neural networks.
 
-A simple Python script showing how the backpropagation algorithm works.
-
-Checkout this blog post for background: [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/).
-
-# Contact
-
-If you have any suggestions, find a bug, or just want to say hey drop me a note at [@mhmazur](https://twitter.com/mhmazur) on Twitter or by email at matthew.h.mazur@gmail.com.
-
-# License
-
-MIT © [Matt Mazur](http://mattmazur.com)
-
-http://iamtrask.github.io/
+it's a fork of https://github.com/Damianofds/simple-neural-network since it was the first blog post reviewed.

@@ -1,3 +1,5 @@
+﻿### This forked repo is temporary used also to gather other small python projects about neural networks
+
 # Neural Network with Backpropagation
 
 A simple Python script showing how the backpropagation algorithm works.
@@ -11,3 +13,5 @@ If you have any suggestions, find a bug, or just want to say hey drop me a note 
 # License
 
 MIT © [Matt Mazur](http://mattmazur.com)
+
+http://iamtrask.github.io/
